@@ -1,5 +1,5 @@
-this removes the filter from the guys voice in TMP2
+this removes the filter from redacted's voice in TMP2
 
-doesnt change the quetions though
+doesn't change the questions though
 
 put start.swf in The Jackbox Party Pack 6\games\TriviaDeath2\TalkshowExport\project\data
